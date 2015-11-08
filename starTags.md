@@ -4,6 +4,7 @@ starTags
 
 #### blog system
 - [LuaWeb - A very simple blog engine using openresty, nginx, lua, markdown, git and redis](https://github.com/torhve/LuaWeb)
+- [JustWriting - markdown blog system](https://github.com/hjue/JustWriting)
 - [gitblog - markdown blog base on CodeIgniter, writing blog with markdown！基于CI的markdown博客](https://github.com/jockchou/gitblog)
 - [typecho - A PHP Blogging Platform. Simple and Powerful](https://github.com/typecho/typecho)
 - [simple - A static blog generator with a single static page](https://github.com/isnowfy/simple)
@@ -11,6 +12,9 @@ starTags
 - [octopress - Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?](https://github.com/imathis/octopress)
 - [jekyll - Jekyll is a blog-aware, static site generator in Ruby](https://github.com/jekyll/jekyll)
 - [hexo - A fast, simple & powerful blog framework, powered by Node.js](https://github.com/hexojs/hexo)
+- [blog - blog developed with web.py, posted with raw markdown files](https://github.com/dylanninin/blog)
+- [henryyan.github.com - My blog host on Github, use Github+Jekyll+Markdown](https://github.com/henryyan/henryyan.github.com)
+- [md-blog - A WYSIWYG markdown powered blog](https://github.com/xolvio/md-blog)
 
 #### books
 - [The-Art-Of-Programming-By-July - 《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
