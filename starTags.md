@@ -15,6 +15,7 @@ starTags
 - [blog - blog developed with web.py, posted with raw markdown files](https://github.com/dylanninin/blog)
 - [henryyan.github.com - My blog host on Github, use Github+Jekyll+Markdown](https://github.com/henryyan/henryyan.github.com)
 - [md-blog - A WYSIWYG markdown powered blog](https://github.com/xolvio/md-blog)
+- [node-blog - Markdown Blog written in Node.js with twitter bootstrap UI and ace editor for composing](https://github.com/sbstjn/node-blog)
 
 #### books
 - [The-Art-Of-Programming-By-July - 《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
@@ -29,6 +30,8 @@ starTags
 #### cloud IDE
 - [Codiad - Web Based, Cloud IDE](https://github.com/Codiad/Codiad)
 - [codebox - Open source cloud & desktop IDE](https://github.com/CodeboxIDE/codebox)
+- [ace - Ace (Ajax.org Cloud9 Editor)](https://github.com/ajaxorg/ace)
+- [brace - browserify compatible version of the ace editor](https://github.com/thlorenz/brace)
 
 #### database
 - [redis - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, HyperLogLogs, Bitmaps](https://github.com/antirez/redis)
