@@ -52,4 +52,5 @@ starTags
 - [How-to-Make-a-Computer-Operating-System - How to Make a Computer Operating System in C++](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System)
 - [mproxy - c 语言实现的一个最小的http代理，支持翻墙](https://github.com/examplecode/mproxy)
 - [JeeSite - JeeSite 是一个企业信息化开发基础平台，Java企业应用开源框架，Java EE（J2EE）快速开发框架，使用经典技术组合（Spring、Spring MVC、Apache Shiro、MyBatis、Bootstrap UI），包括核心模块如：组织机构、角色用户、权限授权、数据权限、内容管理、工作流等。](https://github.com/thinkgem/jeesite)
+- [sprintf.js - sprintf.js is a complete open source JavaScript sprintf implementation](https://github.com/alexei/sprintf.js)
 
