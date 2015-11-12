@@ -26,6 +26,7 @@ starTags
 
 #### git
 - [gitbucket - The easily installable GitHub clone powered by Scala](https://github.com/gitbucket/gitbucket)
+- [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
 
 #### cloud IDE
 - [Codiad - Web Based, Cloud IDE](https://github.com/Codiad/Codiad)
