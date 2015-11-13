@@ -25,7 +25,16 @@ tag stared repo for quick search
 #### vim
 - [vim-as-an-ide - Workshop on how to use Vim Plugins](https://github.com/jez/vim-as-an-ide)
 - [use_vim_as_ide - use vim as IDE](https://github.com/yangyangwithgnu/use_vim_as_ide)
+
 - [Vundle.vim - Vundle, the plug-in manager for Vim](https://github.com/VundleVim/Vundle.vim)
+- [neobundle.vim - Next generation Vim package manager](https://github.com/Shougo/neobundle.vim)
+- [vim-fugitive - fugitive.vim: a Git wrapper so awesome, it should be illegal](https://github.com/tpope/vim-fugitive)
+- [powerline - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile](https://github.com/powerline/powerline)
+- [vim-colors-solarized - precision colorscheme for the vim text editor](https://github.com/altercation/vim-colors-solarized)
+- [vim-airline - lean & mean status/tabline for vim that's light as air](https://github.com/bling/vim-airline)
+- [STL-Syntax - Improved C++11/14 STL syntax highlighting](https://github.com/Mizuchi/STL-Syntax)
+- [vim-indent-guides - A Vim plugin for visually displaying indent levels in code](https://github.com/nathanaelkane/vim-indent-guides)
+- [a.vim - Alternate Files quickly (.c --> .h etc)](https://github.com/vim-scripts/a.vim)
 
 #### git
 - [gitbucket - The easily installable GitHub clone powered by Scala](https://github.com/gitbucket/gitbucket)
