@@ -25,7 +25,6 @@ tag stared repo for quick search
 #### vim
 - [vim-as-an-ide - Workshop on how to use Vim Plugins](https://github.com/jez/vim-as-an-ide)
 - [use_vim_as_ide - use vim as IDE](https://github.com/yangyangwithgnu/use_vim_as_ide)
-
 - [Vundle.vim - Vundle, the plug-in manager for Vim](https://github.com/VundleVim/Vundle.vim)
 - [neobundle.vim - Next generation Vim package manager](https://github.com/Shougo/neobundle.vim)
 - [vim-fugitive - fugitive.vim: a Git wrapper so awesome, it should be illegal](https://github.com/tpope/vim-fugitive)
