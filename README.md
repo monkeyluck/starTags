@@ -23,17 +23,51 @@ tag stared repo for quick search
 - [The-Art-Of-Programming-By-July - 《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
 
 #### vim
+- [macvim](https://github.com/macvim-dev/macvim/releases)
 - [vim-as-an-ide - Workshop on how to use Vim Plugins](https://github.com/jez/vim-as-an-ide)
 - [use_vim_as_ide - use vim as IDE](https://github.com/yangyangwithgnu/use_vim_as_ide)
 - [Vundle.vim - Vundle, the plug-in manager for Vim](https://github.com/VundleVim/Vundle.vim)
 - [neobundle.vim - Next generation Vim package manager](https://github.com/Shougo/neobundle.vim)
+- [vim-plug - Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 - [vim-fugitive - fugitive.vim: a Git wrapper so awesome, it should be illegal](https://github.com/tpope/vim-fugitive)
+- [vim-gitgutter - A Vim plugin which shows a git diff in the gutter (sign column) and stages/reverts hunks](https://github.com/airblade/vim-gitgutter)
 - [powerline - Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile](https://github.com/powerline/powerline)
 - [vim-colors-solarized - precision colorscheme for the vim text editor](https://github.com/altercation/vim-colors-solarized)
 - [vim-airline - lean & mean status/tabline for vim that's light as air](https://github.com/bling/vim-airline)
 - [STL-Syntax - Improved C++11/14 STL syntax highlighting](https://github.com/Mizuchi/STL-Syntax)
 - [vim-indent-guides - A Vim plugin for visually displaying indent levels in code](https://github.com/nathanaelkane/vim-indent-guides)
 - [a.vim - Alternate Files quickly (.c --> .h etc)](https://github.com/vim-scripts/a.vim)
+- [nerdcommenter - Vim plugin for intensely orgasmic commenting](https://github.com/scrooloose/nerdcommenter)
+- [YouCompleteMe - A code-completion engine for Vim](https://github.com/Valloric/YouCompleteMe)
+- [nerdtree - A tree explorer plugin for vim](https://github.com/scrooloose/nerdtree)
+- [nerdtree-git-plugin - A plugin of NERDTree showing git status](https://github.com/Xuyuanp/nerdtree-git-plugin)
+- [minibufexpl.vim - Elegant buffer explorer - takes very little screen space](https://github.com/fholgado/minibufexpl.vim)
+- [wildfire.vim - Smart selection of the closest text object](https://github.com/gcmt/wildfire.vim)
+- [gundo.vim - graph your Vim undo tree in style](https://github.com/sjl/gundo.vim)
+- [vim-easymotion - Vim motions on speed](https://github.com/easymotion/vim-easymotion)
+- [delimitMate - provides insert mode auto-completion for quotes, parens, brackets, etc](https://github.com/Raimondi/delimitMate)
+- [ctrlp.vim - Fuzzy file, buffer, mru, tag, etc finder](https://github.com/kien/ctrlp.vim)
+- [fzf.vim - A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf.vim)
+- [Command-T - Fast file navigation for VIM](https://github.com/wincent/Command-T)
+- [vim-tmux-navigator - Seamless navigation between tmux panes and vim splits](https://github.com/christoomey/vim-tmux-navigator)
+
+#### markdown
+- [editor.md - The open source embeddable online markdown editor](https://github.com/pandao/editor.md)
+- [markdown-plus - Versatile markdown editor](https://github.com/tylingsoft/markdown-plus)
+- [Mango - Mango is markdown editor for linux, also supports windows and mac osx, powered by NW.js](https://github.com/egrcc/Mango)
+- [macdown - Open source Markdown editor for OS X](https://github.com/uranusjr/macdown)
+
+#### coding env.
+- [oh-my-zsh - A delightful community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)
+- [alfred-workflows - A collection of Alfred 2 workflows that will rock your world](https://github.com/zenorocha/alfred-workflows)
+- [alfred-workflows - Alfred Workflows for Developers](https://github.com/willfarrell/alfred-workflows)
+- [dracula-theme - A dark theme for Atom, Alfred, Emacs, iTerm, Slack, Sublime Text, Textmate, Terminal.app, Vim, Xcode, and Zsh](https://github.com/zenorocha/dracula-theme)
+- [custom-iterm-applescripts-for-alfred](https://github.com/stuartcryan/custom-iterm-applescripts-for-alfred)
+- [mac-dev-setup - A beginner's guide to setting up a development environment on Mac OS X](https://github.com/nicolashery/mac-dev-setup)
+- [macdev - Mac for Developer](https://github.com/pubyun/macdev)
+- [fzf - A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
+- [the_silver_searcher - A code-searching tool similar to ack, but faster](https://github.com/ggreer/the_silver_searcher)
+- [the_platinum_searcher - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings](https://github.com/monochromegane/the_platinum_searcher)
 
 #### git
 - [gitbucket - The easily installable GitHub clone powered by Scala](https://github.com/gitbucket/gitbucket)
@@ -56,6 +90,8 @@ tag stared repo for quick search
 - [wechat - xmpp](https://github.com/donal-tong/wechat)
 
 #### others
+- [Best-App - 收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App)
+- [keepassx - KeePassX is a cross platform port of the windows application “Keepass Password Safe”](https://github.com/keepassx/keepassx)
 - [rstudio - RStudio is an integrated development environment (IDE) for R](https://github.com/rstudio/rstudio)
 - [goaccess - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems](https://github.com/allinurl/goaccess)
 - [acm-cheat-sheet - Acm Cheat Sheet](https://github.com/soulmachine/acm-cheat-sheet)
