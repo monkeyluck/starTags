@@ -50,6 +50,7 @@ tag stared repo for quick search
 - [fzf.vim - A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf.vim)
 - [Command-T - Fast file navigation for VIM](https://github.com/wincent/Command-T)
 - [vim-tmux-navigator - Seamless navigation between tmux panes and vim splits](https://github.com/christoomey/vim-tmux-navigator)
+- [vimwiki - Personal Wiki for Vim](https://github.com/vimwiki/vimwiki)
 
 #### markdown
 - [editor.md - The open source embeddable online markdown editor](https://github.com/pandao/editor.md)
