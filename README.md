@@ -1,8 +1,6 @@
 # starTags
 tag stared repo for quick search
 
-
-
 #### blog system
 - [LuaWeb - A very simple blog engine using openresty, nginx, lua, markdown, git and redis](https://github.com/torhve/LuaWeb)
 - [JustWriting - markdown blog system](https://github.com/hjue/JustWriting)
@@ -51,6 +49,7 @@ tag stared repo for quick search
 - [Command-T - Fast file navigation for VIM](https://github.com/wincent/Command-T)
 - [vim-tmux-navigator - Seamless navigation between tmux panes and vim splits](https://github.com/christoomey/vim-tmux-navigator)
 - [vimwiki - Personal Wiki for Vim](https://github.com/vimwiki/vimwiki)
+- [gist-vim](https://github.com/mattn/gist-vim)
 
 #### markdown
 - [editor.md - The open source embeddable online markdown editor](https://github.com/pandao/editor.md)
@@ -60,6 +59,7 @@ tag stared repo for quick search
 
 #### coding env.
 - [oh-my-zsh - A delightful community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)
+- [zsh-syntax-highlighting - Fish shell like syntax highlighting for Zsh](https://github.com/zsh-users/zsh-syntax-highlighting)
 - [alfred-workflows - A collection of Alfred 2 workflows that will rock your world](https://github.com/zenorocha/alfred-workflows)
 - [alfred-workflows - Alfred Workflows for Developers](https://github.com/willfarrell/alfred-workflows)
 - [dracula-theme - A dark theme for Atom, Alfred, Emacs, iTerm, Slack, Sublime Text, Textmate, Terminal.app, Vim, Xcode, and Zsh](https://github.com/zenorocha/dracula-theme)
@@ -69,10 +69,19 @@ tag stared repo for quick search
 - [fzf - A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 - [the_silver_searcher - A code-searching tool similar to ack, but faster](https://github.com/ggreer/the_silver_searcher)
 - [the_platinum_searcher - A code search tool similar to ack and the_silver_searcher(ag). It supports multi platforms and multi encodings](https://github.com/monochromegane/the_platinum_searcher)
+- [dotfiles](https://github.com/bradp/dotfiles)
+- [maid - Be lazy. Let Maid clean up after you, based on rules you define. Think of it as "Hazel for hackers".](https://github.com/benjaminoakes/maid)
+- [homesick - Your home directory is your castle. Don't leave your dotfiles behind](https://github.com/technicalpickles/homesick)
+- [dotfiles](https://github.com/holman/dotfiles)
+- [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
+- [dotfiles - .files, including ~/.osx — sensible hacker defaults for OS X](https://github.com/mathiasbynens/dotfiles)
+- [maximum-awesome - Config files for vim and tmux](https://github.com/square/maximum-awesome)
 
 #### git
 - [gitbucket - The easily installable GitHub clone powered by Scala](https://github.com/gitbucket/gitbucket)
 - [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
+- [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
+- [gibo - A shell script for easily accessing gitignore boilerplates](https://github.com/simonwhitaker/gibo)
 
 #### cloud IDE
 - [Codiad - Web Based, Cloud IDE](https://github.com/Codiad/Codiad)
