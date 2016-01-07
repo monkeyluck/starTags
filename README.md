@@ -76,6 +76,7 @@ tag stared repo for quick search
 - [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
 - [dotfiles - .files, including ~/.osx — sensible hacker defaults for OS X](https://github.com/mathiasbynens/dotfiles)
 - [maximum-awesome - Config files for vim and tmux](https://github.com/square/maximum-awesome)
+- [XVim - Xcode plugin for Vim keybindings](https://github.com/XVimProject/XVim/)
 
 #### git
 - [gitbucket - The easily installable GitHub clone powered by Scala](https://github.com/gitbucket/gitbucket)
