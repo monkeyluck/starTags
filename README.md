@@ -57,6 +57,11 @@ tag stared repo for quick search
 - [Mango - Mango is markdown editor for linux, also supports windows and mac osx, powered by NW.js](https://github.com/egrcc/Mango)
 - [macdown - Open source Markdown editor for OS X](https://github.com/uranusjr/macdown)
 
+#### apple dev
+- [mac-frameworks - List of open-source OS X frameworks](https://github.com/jeffreyjackson/mac-frameworks)
+- [mac-apps - Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
+- [Solutions and errata for Cocoa Programming for OS X, 5th Edition](https://github.com/bignerdranch/cocoa-programming-for-osx-5e)
+
 #### coding env.
 - [oh-my-zsh - A delightful community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)
 - [zsh-syntax-highlighting - Fish shell like syntax highlighting for Zsh](https://github.com/zsh-users/zsh-syntax-highlighting)
