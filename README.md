@@ -62,6 +62,8 @@ tag stared repo for quick search
 - [mac-apps - Awesome Open Source Mac Apps](https://github.com/jeffreyjackson/mac-apps)
 - [Solutions and errata for Cocoa Programming for OS X, 5th Edition](https://github.com/bignerdranch/cocoa-programming-for-osx-5e)
 - [SwiftGuide - 这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排](https://github.com/ipader/SwiftGuide)
+- [A collaborative list of awesome swift resources. Feel free to contribute!](https://github.com/matteocrippa/awesome-swift)
+- [SnapKit - A Swift Autolayout DSL for iOS & OS X](https://github.com/SnapKit/SnapKit)
 
 #### coding env.
 - [oh-my-zsh - A delightful community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)
