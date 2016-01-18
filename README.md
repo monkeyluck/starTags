@@ -65,6 +65,10 @@ tag stared repo for quick search
 - [A collaborative list of awesome swift resources. Feel free to contribute!](https://github.com/matteocrippa/awesome-swift)
 - [SnapKit - A Swift Autolayout DSL for iOS & OS X](https://github.com/SnapKit/SnapKit)
 - [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+- [Carthage - A simple, decentralized dependency manager for Cocoa](https://github.com/Carthage/Carthage)
+- [XCGLogger - A debug log framework for use in Swift projects](https://github.com/DaveWoodCom/XCGLogger)
+- [YamlSwift - Load YAML and JSON documents using Swift](https://github.com/behrang/YamlSwift)
+- [Awesome Swift - A curated list of awesome Swift frameworks, libraries and software](https://github.com/Wolg/awesome-swift)
 
 #### coding env.
 - [oh-my-zsh - A delightful community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)
