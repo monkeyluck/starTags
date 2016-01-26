@@ -69,6 +69,7 @@ tag stared repo for quick search
 - [XCGLogger - A debug log framework for use in Swift projects](https://github.com/DaveWoodCom/XCGLogger)
 - [YamlSwift - Load YAML and JSON documents using Swift](https://github.com/behrang/YamlSwift)
 - [Awesome Swift - A curated list of awesome Swift frameworks, libraries and software](https://github.com/Wolg/awesome-swift)
+- [Design Patterns implemented in Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 #### coding env.
 - [oh-my-zsh - A delightful community-driven framework for managing your zsh configuration](https://github.com/robbyrussell/oh-my-zsh)
