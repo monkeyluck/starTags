@@ -16,6 +16,7 @@ tag stared repo for quick search
 - [md-blog - A WYSIWYG markdown powered blog](https://github.com/xolvio/md-blog)
 - [node-blog - Markdown Blog written in Node.js with twitter bootstrap UI and ace editor for composing](https://github.com/sbstjn/node-blog)
 - [hexo-theme-next - Elegant theme for Hexo](https://github.com/iissnan/hexo-theme-next)
+- [stackedit - In-browser markdown editor](https://github.com/benweet/stackedit)
 
 #### books
 - [The-Art-Of-Programming-By-July - 《编程之法：面试和算法心得》](https://github.com/julycoding/The-Art-Of-Programming-By-July)
