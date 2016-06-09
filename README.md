@@ -92,6 +92,7 @@ tag stared repo for quick search
 - [dotfiles - .files, including ~/.osx — sensible hacker defaults for OS X](https://github.com/mathiasbynens/dotfiles)
 - [maximum-awesome - Config files for vim and tmux](https://github.com/square/maximum-awesome)
 - [XVim - Xcode plugin for Vim keybindings](https://github.com/XVimProject/XVim/)
+- [ActivatePowerMode](https://github.com/poboke/ActivatePowerMode)
 
 #### git
 - [gitbucket - The easily installable GitHub clone powered by Scala](https://github.com/gitbucket/gitbucket)
